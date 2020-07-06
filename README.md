@@ -1,4 +1,4 @@
-Bootstrap Startup Website
+# TinDog
 
 A sample website called TinDog (replica of Tinder) built using HTML, CSS and Bootstrap ideal for any startup.
 
